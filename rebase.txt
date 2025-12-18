@@ -1,1 +1,1 @@
-Trying to figure out rebasing in github
+Trying to figure out rebasing in git
