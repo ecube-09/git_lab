@@ -1,1 +1,1 @@
-rebasing in git
+Trying to figure out rebasing in git
