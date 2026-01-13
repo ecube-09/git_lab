@@ -1,1 +1,1 @@
-Trying to figure out rebasing in github and testing whether it works again now or not
+Trying to figure out merging? in github and testing whether it works again now or not
